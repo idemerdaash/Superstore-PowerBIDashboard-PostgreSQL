@@ -63,6 +63,3 @@ Below are sample visuals from the dashboard presentation assets included in this
 
 The Power BI dashboard presentation images and ERD diagrams are stored under the `Assets/` folder for documentation and visual reference.
 
-## License
-
-This project is intended for educational and portfolio use.
