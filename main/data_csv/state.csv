@@ -1,0 +1,50 @@
+state_id,state,region_id
+1,Kentucky,1
+2,California,2
+3,Florida,1
+4,North Carolina,1
+5,Washington,2
+6,Texas,3
+7,Wisconsin,3
+8,Utah,2
+9,Nebraska,3
+10,Pennsylvania,4
+11,Illinois,3
+12,Minnesota,3
+13,Michigan,3
+14,Delaware,4
+15,Indiana,3
+16,New York,4
+17,Arizona,2
+18,Virginia,1
+19,Tennessee,1
+20,Alabama,1
+21,South Carolina,1
+22,Oregon,2
+23,Colorado,2
+24,Iowa,3
+25,Ohio,4
+26,Missouri,3
+27,Oklahoma,3
+28,New Mexico,2
+29,Louisiana,1
+30,Connecticut,4
+31,New Jersey,4
+32,Massachusetts,4
+33,Georgia,1
+34,Nevada,2
+35,Rhode Island,4
+36,Mississippi,1
+37,Arkansas,1
+38,Montana,2
+39,New Hampshire,4
+40,Maryland,4
+41,District of Columbia,4
+42,Kansas,3
+43,Vermont,4
+44,Maine,4
+45,South Dakota,3
+46,Idaho,2
+47,North Dakota,3
+48,Wyoming,2
+49,West Virginia,4
