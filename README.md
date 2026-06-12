@@ -63,3 +63,8 @@ Below are sample visuals from the dashboard presentation assets included in this
 
 The Power BI dashboard presentation images and ERD diagrams are stored under the `Assets/` folder for documentation and visual reference.
 
+## Goal
+
+This project demonstrates how raw Superstore data can be transformed into an insightful business dashboard that supports decision-making and reporting.
+
+
